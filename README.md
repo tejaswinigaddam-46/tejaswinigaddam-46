@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [SchoolManagementSoftware](https://github.com/tejaswinigaddam-46/SchoolManagementSystemBackend)
 
-- 🌱 I’m currently learning **System Archutecture and How to create AI tutor and Quiz Generator**
+- 🌱 I’m currently learning **System Architecture and How to create AI tutor and Quiz Generator**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tejaswinigaddam-46](https://github.com/tejaswinigaddam-46)
 
